@@ -1,10 +1,21 @@
+# Hi, I'm Nida Sehar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-### About me✍
-👋 Hi there! I'm Nida Sehar, a passionate software engineering graduate <br> with hands-on experience in WordPress and frontend website designing. <br>
-💻 Aspiring to carve my path in the tech industry, I'm eager to leverage <br> my expertise in frontend development to create user-centric solutions <br> that drive innovation and enhance digital experiences.  <br>
-💡 I thrive in dynamic environments where I can continuously learn and grow, <br> and I'm committed to staying abreast of emerging technologies and industry trends. <br>
-🔍 Currently exploring new opportunities to contribute my skills and expertise <br> to forward-thinking teams and projects. <br> Let's collaborate to create impactful solutions together!
-<br>
+### About Me✍
+<table>
+  <tr>
+    <td valign="center">
+      🎓 I am a fresh graduate (class of 2023), completed my <b>Bachelor's in Software Engineering</b>. <br>
+      🌱 I am currently learning <b>JavaScript Libraries</b> and also interested in <b>Web Development</b>. <br>
+      🎯 My Goal is to Contribute to as many <b>open source projects</b> as possible. <br>
+      ✨ I love to create different types of <b>contents</b>.
+<td >
+      <a href="https://app.daily.dev/Nida"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+    </td>
+    
+  </tr>
+  </table>
+
+
 ![download](https://github.com/nida-sehar/Nida-Sehar/assets/167526409/1d9cbaca-ecf2-44e9-955e-ad433b39a942)
 
 - 🌱 I’m currently learning JavaScript libraries.
