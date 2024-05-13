@@ -1,3 +1,4 @@
+
 ### About me✍
 👋 Hi there! I'm Nida Sehar, a passionate software engineering graduate <br> with hands-on experience in WordPress and frontend website designing. <br>
 💻 Aspiring to carve my path in the tech industry, I'm eager to leverage <br> my expertise in frontend development to create user-centric solutions <br> that drive innovation and enhance digital experiences.  <br>
@@ -6,7 +7,11 @@
 <br>
 ![download](https://github.com/nida-sehar/Nida-Sehar/assets/167526409/1d9cbaca-ecf2-44e9-955e-ad433b39a942)
 
-<b>Languages and Tools: </b>💻
+- 🌱 I’m currently learning JavaScript libraries.
+- 👯 I’m looking to collaborate on frontend web projects.
+- 📫 How to reach me: nida.sehar461@gmail.com
+- 😄 Pronouns: she/her
+
 
 <!--
 **nida-sehar/Nida-Sehar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
